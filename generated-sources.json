@@ -136,5 +136,59 @@
     "sha256": "7179c212a55e2d90e0e8e44c585aa956ea2079a1c8e54fe594d75493f973c91d",
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "User selected option 5 with cropped top repaired. Re-exported original sheet at unchanged scale with 20px downward offset to recover full top border; no generative change."
+  },
+  "doover_agents": {
+    "file": "icons/doover_agents.png",
+    "sha256": "7f062bd95195b8b8d1a9fc3dc3c78ce18e74eb5e923e450a0f63fdb7767d72d5",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 1: friendly robot face with two round eyes. Generated using the Doover icon factory references."
+  },
+  "sim_dashboard": {
+    "file": "icons/sim_dashboard.png",
+    "sha256": "da09b132b849b252c0cb60b46e816bd8d62bdd114ae7588e447cf2a5d589f489",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 5: SIM chip above a simple usage arc. Generated using the Doover icon factory references."
+  },
+  "generator_control": {
+    "file": "icons/generator_control.png",
+    "sha256": "05c845680e91acbf43e1685c97e9b8ce31542f154be00dfad33838426c1fcdf2",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 1: generator housing with lightning bolt. Generated using the Doover icon factory references."
+  },
+  "image_uploader": {
+    "file": "icons/image_uploader.png",
+    "sha256": "af4ade95775ab9b46f69e97f720f61dd2d9f419adaed685a223f791ebaf2c777",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 1: photo silhouette with upward arrow. Generated using the Doover icon factory references."
+  },
+  "doover_camera": {
+    "file": "icons/doover_camera.png",
+    "sha256": "05c89fdc7731b9ed785046059ee04ee3c1d10f491df66388264fb35318a4798b",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 1: simple CCTV camera with blue lens. Generated using the Doover icon factory references."
+  },
+  "irrigation_gate_control": {
+    "file": "icons/irrigation_gate_control.png",
+    "sha256": "2199775dc2788cf2015672d4650cbbdb7eb224283638018ee81d2638b2a26884",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 2: irrigation gate with simple raise arrow. Generated using the Doover icon factory references."
+  },
+  "json_report": {
+    "file": "icons/json_report.png",
+    "sha256": "1c9fc5c7cd2ef58fafd2890a04bb5f2e5c4a7ba17c2505c21bb7c9e278099d3b",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 4: file silhouette with simple brace cutout. Generated using the Doover icon factory references."
+  },
+  "jts_renderer": {
+    "file": "icons/jts_renderer.png",
+    "sha256": "4ecdfc7154cb369c4da9fbc71a724d18e0d66784327ea8327a28451fbdcff695",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 2: simple waveform inside two curly braces. Generated using the Doover icon factory references."
+  },
+  "hmi_engine": {
+    "file": "icons/hmi_engine.png",
+    "sha256": "71802a3439198ec418b79c995a265d87607f93aef1ed5a4278e09b6518e1864b",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "User explicitly requested the existing coloured Local HMI app badge for HMI Display Engine."
   }
 }
