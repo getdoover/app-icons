@@ -1,0 +1,102 @@
+{
+  "allen-bradley": {
+    "file": "icons/allen-bradley.svg",
+    "source_url": "https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley.html",
+    "sha256": "4e722f15a3e54fc39bd94645dee8e42629316fe7b86854fb7e84cb6c13e427e8"
+  },
+  "semtech": {
+    "file": "icons/semtech.svg",
+    "source_url": "https://www.semtech.com/",
+    "sha256": "21fa900dff51803171251c8f393e73d68a463f05aab5b11c48f800f31c904c32"
+  },
+  "benewake": {
+    "file": "icons/benewake.jpg",
+    "source_url": "https://benewake.com/uploadfiles/2025/04/20250430172903489.pdf",
+    "sha256": "04375632476d4fdd6957fc0ac5bc119ae88771274d3b53796df6f7edd937d55e"
+  },
+  "control-unlimited": {
+    "file": "icons/control-unlimited.png",
+    "source_url": "https://www.grainaeration.com.au/products",
+    "sha256": "aa208f8cc9091027b592cdbe996cacbbea14778bb3d6cd59aae9401a6ec88611"
+  },
+  "ellenex": {
+    "file": "icons/ellenex.png",
+    "source_url": "https://www.ellenex.com/",
+    "sha256": "0970ed016a33b7fa6a1e08e8b2da10ad43981eaeed12e823253004bb6b278d8c"
+  },
+  "elpro": {
+    "file": "icons/elpro.png",
+    "source_url": "https://elprotech.com/",
+    "sha256": "2366f8b72ab61864af7ea10749359b7c5a8f475f5f40909551f5dee6ad15aaeb"
+  },
+  "digital-matter": {
+    "file": "icons/digital-matter.png",
+    "source_url": "https://support.digitalmatter.com/",
+    "sha256": "89733fc12cb53f750467af5158fae5ed51823f3fa59146f021536aa7bc4402bc"
+  },
+  "home-assistant": {
+    "file": "icons/home-assistant.svg",
+    "source_url": "https://www.home-assistant.io/",
+    "sha256": "47fe7a74b836716b8a577543d29efadf227a2a0c9bb02075b5881d151b950811"
+  },
+  "hikvision": {
+    "file": "icons/hikvision.svg",
+    "source_url": "https://www.hikvision.com/en/",
+    "sha256": "c1591e634afc95e36cb3298b74085cf19001b4a9ce393d5771e8522b906ee865"
+  },
+  "kensho": {
+    "file": "icons/kensho.png",
+    "source_url": "https://kenshoworld.com/k37.html",
+    "sha256": "1529751fcf8008209b5ba08cc9062e7fa2088c4bfd66d7f9dbcaf2d6b49fc2b6"
+  },
+  "jbd": {
+    "file": "icons/jbd.png",
+    "source_url": "https://en.jiabaida.com/",
+    "sha256": "1b8a7d7b01bc34083209d388b768c0d30fc387e0cc238591126839137cd43e86"
+  },
+  "eagle": {
+    "file": "icons/eagle.png",
+    "source_url": "https://github.com/eagle-io",
+    "sha256": "745254ce994089437f8de62575d57108761e908ee1bff8703e9e6b94b367edaa"
+  },
+  "m2mone": {
+    "file": "icons/m2mone.png",
+    "source_url": "https://m2mone.com.au/",
+    "sha256": "ecc09f7ad002b7abcf959dd58723b93d59dce3a188c01e20e67463a8a7b19c4a"
+  },
+  "rak": {
+    "file": "icons/rak.svg",
+    "source_url": "https://www.rakwireless.com/en-us",
+    "sha256": "ddb38457a30319ce20bba66175f75514471ef1422664ead82b87cbcb332111e6"
+  },
+  "selectronic": {
+    "file": "icons/selectronic.gif",
+    "source_url": "https://www.selectronic.com.au/",
+    "sha256": "fc0b6f1ff3563c6613c55e49b52726a1240b2cba3e61e20b69eca8d05e35ee91"
+  },
+  "akytec": {
+    "file": "icons/akytec.png",
+    "source_url": "https://akytec.de/en/",
+    "sha256": "f0714a1afab2541c3f8ede7132f0d2509a8e8ee9bf0aa974774e965556733dd9"
+  },
+  "techtop": {
+    "file": "icons/techtop.jpg",
+    "source_url": "https://www.techtop.com.au/",
+    "sha256": "025ba3482a45cf250b23e11e4880d105fa6565c726aa2ff17151b5dadd993519"
+  },
+  "thomson": {
+    "file": "icons/thomson.png",
+    "source_url": "https://www.thomsonlinear.com.cn/",
+    "sha256": "ff5bd9de4f8498263714e18088aad3d1f50238111c0e5d96aa63ac786b1cc775"
+  },
+  "ttn": {
+    "file": "icons/ttn.png",
+    "source_url": "https://www.thethingsnetwork.org/",
+    "sha256": "95f0bf7028236205aed95331716e8022535a7cf3f262a3f74f954160337613d7"
+  },
+  "tts": {
+    "file": "icons/tts.svg",
+    "source_url": "https://www.thethingsindustries.com/docs/",
+    "sha256": "e7bc01ea5eb3e2369370fd52d1822c3e1ea649f52f2449f31a500bc3217dba78"
+  }
+}
