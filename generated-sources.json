@@ -364,5 +364,11 @@
     "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
+  },
+  "irritek_warning_manager": {
+    "file": "icons/irritek_warning_manager.png",
+    "sha256": "d9ab6470225a3d2250b7c2cbac0531574b6a0e182e30359ecb9e073b1a6dcf5e",
+    "provenance": "User-approved revised Doover icon",
+    "concept": "Revision of option 1: five blue rays above beacon, including three new rays between the original diagonal pair. Generated edit for user review."
   }
 }
