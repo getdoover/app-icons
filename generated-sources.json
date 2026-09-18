@@ -1,0 +1,26 @@
+{
+  "4_20ma_sensor": {
+    "file": "icons/4_20ma_sensor.png",
+    "sha256": "694051fbe58feffde830336817bac95b67324a2c4e383d8df7aa074ed5a73cd8",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 5. Doover icon factory exploration. rounded sensor block with a rising measurement waveform. No units or numerals."
+  },
+  "analog_flow_meter": {
+    "file": "icons/analog_flow_meter.png",
+    "sha256": "49f139283c6788535afc4b77d14984cc8be1459d5779faa509f647e499a6f8fc",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3. Doover icon factory exploration. round flow gauge over short pipe"
+  },
+  "analog_level_sensor": {
+    "file": "icons/analog_level_sensor.png",
+    "sha256": "92d6207ab5381411a9c79c102e26ea4d5fd968186885fa888127208d19294b58",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3. Doover icon factory exploration. upright tank with external level ruler and green level marker"
+  },
+  "analog_rain_gauge": {
+    "file": "icons/analog_rain_gauge.png",
+    "sha256": "cda0b83ce0a31b99690801d5e4e62d0a47ec883e8797cfb6255431d924037706",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2. Doover icon factory exploration. open cylinder collecting falling rain with side graduation marks"
+  }
+}
