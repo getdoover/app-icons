@@ -52,5 +52,35 @@
     "sha256": "d3f9c3076a6b3f790242fb27a8d2d304c3dea94c4fa55b5aac69380cdac36c2b",
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 4: upright channel gate with side measurement ticks and green position dot. Generated using the Doover icon factory references."
+  },
+  "can_interface": {
+    "file": "icons/can_interface.png",
+    "sha256": "72e85aea0b98ba7686a1579d0ed13a21bdb4faa80932964a9ad95a78750eec67",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: CAN bus nodes linked by two arrows to a hollow luggage-tag shape with round hole. Generated using the Doover icon factory references."
+  },
+  "csv_report": {
+    "file": "icons/csv_report.png",
+    "sha256": "1988d38227cc0b876f5a695ff375b8dde8f1aeb1365da037cba5f43068c55277",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: spreadsheet grid with download arrow. Generated using the Doover icon factory references."
+  },
+  "data_report_segmenter": {
+    "file": "icons/data_report_segmenter.png",
+    "sha256": "fe4f798a4f366b7a440dea80f23ec962168a662c7bfd9a8ce45a4bd86665048a",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: timeline divided into three labelled-by-colour blocks flowing into report. Generated using the Doover icon factory references."
+  },
+  "data_usage_monitor": {
+    "file": "icons/data_usage_monitor.png",
+    "sha256": "d4feda567757b6a037fc481ea855ed8846f760d93125f470a67a9114a74c8518",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: network cable and usage gauge. Generated using the Doover icon factory references."
+  },
+  "device_compliance": {
+    "file": "icons/device_compliance.png",
+    "sha256": "7d5d1c1f3aae7daf938858e705e515f58b1aec9d346b85f55fe571a8caa95f91",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: shield with checklist. Generated using the Doover icon factory references."
   }
 }
