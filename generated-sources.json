@@ -82,5 +82,59 @@
     "sha256": "7d5d1c1f3aae7daf938858e705e515f58b1aec9d346b85f55fe571a8caa95f91",
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 1: shield with checklist. Generated using the Doover icon factory references."
+  },
+  "device_io_tester": {
+    "file": "icons/device_io_tester.png",
+    "sha256": "fa5a0a9bbd02ac6bb532b24ffa88c1909eae36041de6ddab5c411e8ed4c0d764",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2: digital toggle beside analog gauge and wiring pins. Generated using the Doover icon factory references."
+  },
+  "doover_device_runtime": {
+    "file": "icons/doover_device_runtime.png",
+    "sha256": "496b7e29babdc414d89182c12bca29ea4ef2aeab0cf01ba82d0b9a5ffb973d56",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2: container cube with device heartbeat. Generated using the Doover icon factory references."
+  },
+  "doover_legacy_bridge_integration": {
+    "file": "icons/doover_legacy_bridge_integration.png",
+    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3: bridge linking two clusters with single forward arrow. Generated using the Doover icon factory references."
+  },
+  "farm_water_dashboard": {
+    "file": "icons/farm_water_dashboard.png",
+    "sha256": "db2a44049ba97aa3fae3ee69c96f6efdfd1464318961b5895d88196ff004c5e2",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2: farm reservoirs connected beneath water dashboard. Generated using the Doover icon factory references."
+  },
+  "device_compliance_dashboard": {
+    "file": "icons/device_compliance_dashboard.png",
+    "sha256": "73a7e6e2c3f12ef1de7ac685c0ba857d75a167052cbf78cb5daa8a344aaec309",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3: three devices below a large shield and dashboard chart. Generated using the Doover icon factory references."
+  },
+  "connectivity_dashboard": {
+    "file": "icons/connectivity_dashboard.png",
+    "sha256": "87dffd5537297b7ab0c0f86a55281557d8ece25f6fd0200de9d9fb909119040f",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3: monitor containing tower and several online status rows. Generated using the Doover icon factory references."
+  },
+  "data_usage_monitor_dashboard": {
+    "file": "icons/data_usage_monitor_dashboard.png",
+    "sha256": "b7e06a044fefcc665a7638facab9749b870adce3a6bf46291bf9b96ef67ec68d",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3: three device columns below network globe. Generated using the Doover icon factory references."
+  },
+  "doover_legacy_bridge_cloud_app": {
+    "file": "icons/doover_legacy_bridge_cloud_app.png",
+    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "User explicitly requested option 3 from the Legacy Bridge Integration set."
+  },
+  "xlsx_report": {
+    "file": "icons/xlsx_report.png",
+    "sha256": "7179c212a55e2d90e0e8e44c585aa956ea2079a1c8e54fe594d75493f973c91d",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "User selected option 5 with cropped top repaired. Re-exported original sheet at unchanged scale with 20px downward offset to recover full top border; no generative change."
   }
 }
