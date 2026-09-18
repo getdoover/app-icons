@@ -22,5 +22,35 @@
     "sha256": "cda0b83ce0a31b99690801d5e4e62d0a47ec883e8797cfb6255431d924037706",
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 2. Doover icon factory exploration. open cylinder collecting falling rain with side graduation marks"
+  },
+  "analog_level_sensor_processor": {
+    "file": "icons/analog_level_sensor_processor.png",
+    "sha256": "2fcd490ddc6d7019fecd37ded269cadeb76c608c716f240637ee452d912a0112",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: Tank with level ruler. Generated using the Doover icon factory references."
+  },
+  "asset_register": {
+    "file": "icons/asset_register.png",
+    "sha256": "807375f9ef77069f289eaf0b888f3241a71dabd2a0f624869c31f40171ce204d",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 5: a tag attached to a rounded equipment block. Generated using the Doover icon factory references."
+  },
+  "camera_inference": {
+    "file": "icons/camera_inference.png",
+    "sha256": "69f725824cdcceded17e7f8af7d2f937fd4eefa251f5d6ea3bbc87536df082f8",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2: simple camera body framing one small green object. Generated using the Doover icon factory references."
+  },
+  "channel_gate_control": {
+    "file": "icons/channel_gate_control.png",
+    "sha256": "ed878b39b29539edf97a0e10d95b007b7078795b7dce00e6410404fc365a1e14",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 4: front view of sluice opening with green direction arrows beside gate. Generated using the Doover icon factory references."
+  },
+  "channel_gate_encoder": {
+    "file": "icons/channel_gate_encoder.png",
+    "sha256": "d3f9c3076a6b3f790242fb27a8d2d304c3dea94c4fa55b5aac69380cdac36c2b",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 4: upright channel gate with side measurement ticks and green position dot. Generated using the Doover icon factory references."
   }
 }
