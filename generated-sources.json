@@ -190,5 +190,179 @@
     "sha256": "71802a3439198ec418b79c995a265d87607f93aef1ed5a4278e09b6518e1864b",
     "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
     "concept": "User explicitly requested the existing coloured Local HMI app badge for HMI Display Engine."
+  },
+  "connectivity_monitor": {
+    "file": "icons/connectivity_monitor.png",
+    "sha256": "63f8b8637a16367ba3e717c86414c78b0adf64400112409f7011f7568cdbfbb8",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: three broad status bars beside an antenna. Generated using the Doover icon factory references."
+  },
+  "host_configurator": {
+    "file": "icons/host_configurator.png",
+    "sha256": "a30b300b79fff5f623b733e26f27900d9569155d346155f44a1da1457af54159",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 4: device enclosed by two refresh arrows. Generated using the Doover icon factory references."
+  },
+  "hydraulics_controller": {
+    "file": "icons/hydraulics_controller.png",
+    "sha256": "ff144d911cbdb57fb3fb6770edd64ed409358c7c518b72df951100a827b1a2e2",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 2: horizontal hydraulic ram with two mounting eyes. Generated using the Doover icon factory references."
+  },
+  "lateral_water_map": {
+    "file": "icons/lateral_water_map.png",
+    "sha256": "137ce701ba7fd5584e019da0e3db19b38621c1a9e5631b204eab8c9891c4631e",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 4: parallel water bands beneath a location pin. Generated using the Doover icon factory references."
+  },
+  "doover_location_manager": {
+    "file": "icons/doover_location_manager.png",
+    "sha256": "9a95f29e7232608375ef953cb1197d4d95dd4c2550eeb359d672484a6c6a9f5c",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: location pin with green centre. Generated using the Doover icon factory references."
+  },
+  "logo_displayer": {
+    "file": "icons/logo_displayer.png",
+    "sha256": "6522a8094b7a2a3990e8e192018c1433bc1dca1c03c5b637067cbcd856d55765",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 3: image placeholder with one central green diamond. Generated using the Doover icon factory references."
+  },
+  "maintenance_manager": {
+    "file": "icons/maintenance_manager.png",
+    "sha256": "0911f62699e13338113c5d25fb48b40099900a04159b43721e7d67a2fd6b69c1",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: wrench and one scheduled-time arc. Generated using the Doover icon factory references."
+  },
+  "doover_modbus_slave": {
+    "file": "icons/doover_modbus_slave.png",
+    "sha256": "ec4e989ea6108be5f88169060418eff61df1b6e30b158067ec67fbf9843ea722",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 4: single industrial socket with two-way arrow. Generated using the Doover icon factory references."
+  },
+  "mqtt_poller": {
+    "file": "icons/mqtt_poller.png",
+    "sha256": "4492de5e15c51c61d1f64ee77b71ae625f4e5ef01ed7cc80942364111c764d7f",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 4: queue tray with circular retrieval arrow. Generated using the Doover icon factory references."
+  },
+  "mqtt_relay": {
+    "file": "icons/mqtt_relay.png",
+    "sha256": "4659513cb07da96eb7ee3503fb035108a62b8c91b92b54f80995f3d30253c9c0",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: message packet moving through two connection dots. Generated using the Doover icon factory references."
+  },
+  "object_detection": {
+    "file": "icons/object_detection.png",
+    "sha256": "4500065109cfd5e16a467be620ebde0ed4555e3e8df6fc909b498622e2ebb9cf",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: hard hat inside four detection corners. Generated using the Doover icon factory references."
+  },
+  "object_detection_processor": {
+    "file": "icons/object_detection_processor.png",
+    "sha256": "dacd3bb5a60ad13facaccbd11c1e2052115f9074f2c6dae45d36f1c2b049b3b8",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 2: detection corners around a helmet. Generated using the Doover icon factory references."
+  },
+  "opcua_client": {
+    "file": "icons/opcua_client.png",
+    "sha256": "035db5b454ddb3f8ae63a532c85605a8a88a012d6e0e6cd5776468b965561c9e",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: linked industrial nodes with one two-way arrow. Generated using the Doover icon factory references."
+  },
+  "pivot_water_map": {
+    "file": "icons/pivot_water_map.png",
+    "sha256": "723365bf96bdb1c25d7f68cfb68f08a71be5247963f57dc6da811d723f79c1dc",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: circular irrigated field with one coloured sector. Generated using the Doover icon factory references."
+  },
+  "pump_analysis": {
+    "file": "icons/pump_analysis.png",
+    "sha256": "67928601a01751082f0c474b149d527a95606e04788c8b0c6020884bcc0c9a75",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 2: pump silhouette with one gauge. Generated using the Doover icon factory references."
+  },
+  "pump_analysis_processor": {
+    "file": "icons/pump_analysis_processor.png",
+    "sha256": "ce7682c4bbafa417ac647bc5f2ad71bcf20928affd4514c8f07db6379299f891",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 3: pump silhouette and analysis spark. Generated using the Doover icon factory references."
+  },
+  "analog_rain_gauge_dashboard": {
+    "file": "icons/analog_rain_gauge_dashboard.png",
+    "sha256": "ea3741ed7863602fcfc703c394c20c5520ccb5bc3b60a683906a204daff0a6af",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: rainfall bars beneath one cloud. Generated using the Doover icon factory references."
+  },
+  "rtsp_to_web_app": {
+    "file": "icons/rtsp_to_web_app.png",
+    "sha256": "7ea13ac1bb768beb1a5b9dbd1988acb832aba6ada6a628c403a0ca5ea33ee07c",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 2: camera stream entering simple browser tab. Generated using the Doover icon factory references."
+  },
+  "site_parameter_explorer": {
+    "file": "icons/site_parameter_explorer.png",
+    "sha256": "220e0f0e35a3430ac2f0af1f32d97975f0a3eb4a7740debba4fa6565ed69da24",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: tag with magnifying glass. Generated using the Doover icon factory references."
+  },
+  "small_motor_control": {
+    "file": "icons/small_motor_control.png",
+    "sha256": "604c64950690ae257bd7cf848723220e4b48226bce629464843512303e0ddfb6",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: compact engine with power symbol. Generated using the Doover icon factory references."
+  },
+  "solar_power_dashboard": {
+    "file": "icons/solar_power_dashboard.png",
+    "sha256": "bf1c804eb901fbdf4d71241d122c721423c2f4986deadb1c28a51bdf7d984853",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: solar panel with simple voltage trend. Generated using the Doover icon factory references."
+  },
+  "tag_interaction_widget": {
+    "file": "icons/tag_interaction_widget.png",
+    "sha256": "f17eb1a251bc44c51be7b67125f8b1db06769112f05cf1cec089a1441e023518",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 4: tag with interaction pointer. Generated using the Doover icon factory references."
+  },
+  "tag_relay": {
+    "file": "icons/tag_relay.png",
+    "sha256": "07ea7f2eccaf989c973891d92c2b3280f6fa428f5f496e354269ad992202dbf5",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: two tags joined by a forward arrow. Generated using the Doover icon factory references."
+  },
+  "trash_elevator": {
+    "file": "icons/trash_elevator.png",
+    "sha256": "d6595ce8a2999cf7b09a7b2059e64fdddd726626308b57a94a032f1f8e5b55e7",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 3: conveyor lifting one leaf from water. Generated using the Doover icon factory references."
+  },
+  "vehicle_tracker": {
+    "file": "icons/vehicle_tracker.png",
+    "sha256": "0f5dbfe1e72a18b10cf56d0c61282f5b8f0cc6a2444b03fb59a0fdc2f4cc12e9",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: vehicle with location pin. Generated using the Doover icon factory references."
+  },
+  "voltage_overview_dashboard": {
+    "file": "icons/voltage_overview_dashboard.png",
+    "sha256": "aeac3f5bb90b84621a6d0f2fa4158cd79e4c1a0f5044c54db341081d48f4d47e",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: battery with one voltage gauge. Generated using the Doover icon factory references."
+  },
+  "wifi_rotate": {
+    "file": "icons/wifi_rotate.png",
+    "sha256": "9ece2fc770e391deccf8d582d75ff64033fe2d04ff9b21339f9754a2e055dfe4",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 2: two Wi-Fi signals joined by switch arrow. Generated using the Doover icon factory references."
+  },
+  "modbus_channel_relay": {
+    "file": "icons/modbus_channel_relay.png",
+    "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
+  },
+  "platform_modbus_bridge": {
+    "file": "icons/platform_modbus_bridge.png",
+    "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
   }
 }
