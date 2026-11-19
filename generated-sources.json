@@ -257,6 +257,18 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 5: wrench and one scheduled-time arc. Generated using the Doover icon factory references."
   },
+  "mait_bridge": {
+    "file": "icons/mait_bridge.png",
+    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved doover_legacy_bridge_integration artwork (icons/doover_legacy_bridge_integration.png) for the new mait_bridge app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
+  },
+  "mait_bridge_cloud": {
+    "file": "icons/mait_bridge_cloud.png",
+    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved doover_legacy_bridge_cloud_app artwork (icons/doover_legacy_bridge_cloud_app.png) for the new mait_bridge_cloud app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
+  },
   "modbus_channel_relay": {
     "file": "icons/modbus_channel_relay.png",
     "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
