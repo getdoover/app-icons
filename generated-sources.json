@@ -17,17 +17,23 @@
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 3. Doover icon factory exploration. upright tank with external level ruler and green level marker"
   },
+  "analog_level_sensor_processor": {
+    "file": "icons/analog_level_sensor_processor.png",
+    "sha256": "2fcd490ddc6d7019fecd37ded269cadeb76c608c716f240637ee452d912a0112",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: Tank with level ruler. Generated using the Doover icon factory references."
+  },
   "analog_rain_gauge": {
     "file": "icons/analog_rain_gauge.png",
     "sha256": "cda0b83ce0a31b99690801d5e4e62d0a47ec883e8797cfb6255431d924037706",
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 2. Doover icon factory exploration. open cylinder collecting falling rain with side graduation marks"
   },
-  "analog_level_sensor_processor": {
-    "file": "icons/analog_level_sensor_processor.png",
-    "sha256": "2fcd490ddc6d7019fecd37ded269cadeb76c608c716f240637ee452d912a0112",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 1: Tank with level ruler. Generated using the Doover icon factory references."
+  "analog_rain_gauge_dashboard": {
+    "file": "icons/analog_rain_gauge_dashboard.png",
+    "sha256": "ea3741ed7863602fcfc703c394c20c5520ccb5bc3b60a683906a204daff0a6af",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: rainfall bars beneath one cloud. Generated using the Doover icon factory references."
   },
   "asset_register": {
     "file": "icons/asset_register.png",
@@ -41,6 +47,12 @@
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 2: simple camera body framing one small green object. Generated using the Doover icon factory references."
   },
+  "can_interface": {
+    "file": "icons/can_interface.png",
+    "sha256": "72e85aea0b98ba7686a1579d0ed13a21bdb4faa80932964a9ad95a78750eec67",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 1: CAN bus nodes linked by two arrows to a hollow luggage-tag shape with round hole. Generated using the Doover icon factory references."
+  },
   "channel_gate_control": {
     "file": "icons/channel_gate_control.png",
     "sha256": "ed878b39b29539edf97a0e10d95b007b7078795b7dce00e6410404fc365a1e14",
@@ -53,11 +65,17 @@
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 4: upright channel gate with side measurement ticks and green position dot. Generated using the Doover icon factory references."
   },
-  "can_interface": {
-    "file": "icons/can_interface.png",
-    "sha256": "72e85aea0b98ba7686a1579d0ed13a21bdb4faa80932964a9ad95a78750eec67",
+  "connectivity_dashboard": {
+    "file": "icons/connectivity_dashboard.png",
+    "sha256": "87dffd5537297b7ab0c0f86a55281557d8ece25f6fd0200de9d9fb909119040f",
     "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 1: CAN bus nodes linked by two arrows to a hollow luggage-tag shape with round hole. Generated using the Doover icon factory references."
+    "concept": "Option 3: monitor containing tower and several online status rows. Generated using the Doover icon factory references."
+  },
+  "connectivity_monitor": {
+    "file": "icons/connectivity_monitor.png",
+    "sha256": "63f8b8637a16367ba3e717c86414c78b0adf64400112409f7011f7568cdbfbb8",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 5: three broad status bars beside an antenna. Generated using the Doover icon factory references."
   },
   "csv_report": {
     "file": "icons/csv_report.png",
@@ -77,35 +95,17 @@
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 1: network cable and usage gauge. Generated using the Doover icon factory references."
   },
+  "data_usage_monitor_dashboard": {
+    "file": "icons/data_usage_monitor_dashboard.png",
+    "sha256": "b7e06a044fefcc665a7638facab9749b870adce3a6bf46291bf9b96ef67ec68d",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3: three device columns below network globe. Generated using the Doover icon factory references."
+  },
   "device_compliance": {
     "file": "icons/device_compliance.png",
     "sha256": "7d5d1c1f3aae7daf938858e705e515f58b1aec9d346b85f55fe571a8caa95f91",
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 1: shield with checklist. Generated using the Doover icon factory references."
-  },
-  "device_io_tester": {
-    "file": "icons/device_io_tester.png",
-    "sha256": "fa5a0a9bbd02ac6bb532b24ffa88c1909eae36041de6ddab5c411e8ed4c0d764",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 2: digital toggle beside analog gauge and wiring pins. Generated using the Doover icon factory references."
-  },
-  "doover_device_runtime": {
-    "file": "icons/doover_device_runtime.png",
-    "sha256": "496b7e29babdc414d89182c12bca29ea4ef2aeab0cf01ba82d0b9a5ffb973d56",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 2: container cube with device heartbeat. Generated using the Doover icon factory references."
-  },
-  "doover_legacy_bridge_integration": {
-    "file": "icons/doover_legacy_bridge_integration.png",
-    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 3: bridge linking two clusters with single forward arrow. Generated using the Doover icon factory references."
-  },
-  "farm_water_dashboard": {
-    "file": "icons/farm_water_dashboard.png",
-    "sha256": "db2a44049ba97aa3fae3ee69c96f6efdfd1464318961b5895d88196ff004c5e2",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 2: farm reservoirs connected beneath water dashboard. Generated using the Doover icon factory references."
   },
   "device_compliance_dashboard": {
     "file": "icons/device_compliance_dashboard.png",
@@ -113,29 +113,11 @@
     "provenance": "Generated Doover icon, user-selected candidate",
     "concept": "Option 3: three devices below a large shield and dashboard chart. Generated using the Doover icon factory references."
   },
-  "connectivity_dashboard": {
-    "file": "icons/connectivity_dashboard.png",
-    "sha256": "87dffd5537297b7ab0c0f86a55281557d8ece25f6fd0200de9d9fb909119040f",
+  "device_io_tester": {
+    "file": "icons/device_io_tester.png",
+    "sha256": "fa5a0a9bbd02ac6bb532b24ffa88c1909eae36041de6ddab5c411e8ed4c0d764",
     "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 3: monitor containing tower and several online status rows. Generated using the Doover icon factory references."
-  },
-  "data_usage_monitor_dashboard": {
-    "file": "icons/data_usage_monitor_dashboard.png",
-    "sha256": "b7e06a044fefcc665a7638facab9749b870adce3a6bf46291bf9b96ef67ec68d",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "Option 3: three device columns below network globe. Generated using the Doover icon factory references."
-  },
-  "doover_legacy_bridge_cloud_app": {
-    "file": "icons/doover_legacy_bridge_cloud_app.png",
-    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "User explicitly requested option 3 from the Legacy Bridge Integration set."
-  },
-  "xlsx_report": {
-    "file": "icons/xlsx_report.png",
-    "sha256": "7179c212a55e2d90e0e8e44c585aa956ea2079a1c8e54fe594d75493f973c91d",
-    "provenance": "Generated Doover icon, user-selected candidate",
-    "concept": "User selected option 5 with cropped top repaired. Re-exported original sheet at unchanged scale with 20px downward offset to recover full top border; no generative change."
+    "concept": "Option 2: digital toggle beside analog gauge and wiring pins. Generated using the Doover icon factory references."
   },
   "doover_agents": {
     "file": "icons/doover_agents.png",
@@ -143,11 +125,53 @@
     "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
     "concept": "Option 1: friendly robot face with two round eyes. Generated using the Doover icon factory references."
   },
-  "sim_dashboard": {
-    "file": "icons/sim_dashboard.png",
-    "sha256": "da09b132b849b252c0cb60b46e816bd8d62bdd114ae7588e447cf2a5d589f489",
+  "doover_camera": {
+    "file": "icons/doover_camera.png",
+    "sha256": "05c89fdc7731b9ed785046059ee04ee3c1d10f491df66388264fb35318a4798b",
     "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
-    "concept": "Option 5: SIM chip above a simple usage arc. Generated using the Doover icon factory references."
+    "concept": "Option 1: simple CCTV camera with blue lens. Generated using the Doover icon factory references."
+  },
+  "doover_device_runtime": {
+    "file": "icons/doover_device_runtime.png",
+    "sha256": "496b7e29babdc414d89182c12bca29ea4ef2aeab0cf01ba82d0b9a5ffb973d56",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2: container cube with device heartbeat. Generated using the Doover icon factory references."
+  },
+  "doover_legacy_bridge_cloud_app": {
+    "file": "icons/doover_legacy_bridge_cloud_app.png",
+    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "User explicitly requested option 3 from the Legacy Bridge Integration set."
+  },
+  "doover_legacy_bridge_integration": {
+    "file": "icons/doover_legacy_bridge_integration.png",
+    "sha256": "b1186d7d235ee1daa57570acf986cfd5f685ba269b1df3771887c1ea53a91984",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 3: bridge linking two clusters with single forward arrow. Generated using the Doover icon factory references."
+  },
+  "doover_location_manager": {
+    "file": "icons/doover_location_manager.png",
+    "sha256": "9a95f29e7232608375ef953cb1197d4d95dd4c2550eeb359d672484a6c6a9f5c",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 1: location pin with green centre. Generated using the Doover icon factory references."
+  },
+  "doover_modbus_slave": {
+    "file": "icons/doover_modbus_slave.png",
+    "sha256": "ec4e989ea6108be5f88169060418eff61df1b6e30b158067ec67fbf9843ea722",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "Option 4: single industrial socket with two-way arrow. Generated using the Doover icon factory references."
+  },
+  "farm_water_dashboard": {
+    "file": "icons/farm_water_dashboard.png",
+    "sha256": "db2a44049ba97aa3fae3ee69c96f6efdfd1464318961b5895d88196ff004c5e2",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "Option 2: farm reservoirs connected beneath water dashboard. Generated using the Doover icon factory references."
+  },
+  "flow_meter_processor": {
+    "file": "icons/flow_meter_processor.png",
+    "sha256": "49f139283c6788535afc4b77d14984cc8be1459d5779faa509f647e499a6f8fc",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved analog_flow_meter artwork (icons/analog_flow_meter.png) for the new flow_meter_processor app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
   },
   "generator_control": {
     "file": "icons/generator_control.png",
@@ -155,47 +179,17 @@
     "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
     "concept": "Option 1: generator housing with lightning bolt. Generated using the Doover icon factory references."
   },
-  "image_uploader": {
-    "file": "icons/image_uploader.png",
-    "sha256": "af4ade95775ab9b46f69e97f720f61dd2d9f419adaed685a223f791ebaf2c777",
-    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
-    "concept": "Option 1: photo silhouette with upward arrow. Generated using the Doover icon factory references."
-  },
-  "doover_camera": {
-    "file": "icons/doover_camera.png",
-    "sha256": "05c89fdc7731b9ed785046059ee04ee3c1d10f491df66388264fb35318a4798b",
-    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
-    "concept": "Option 1: simple CCTV camera with blue lens. Generated using the Doover icon factory references."
-  },
-  "irrigation_gate_control": {
-    "file": "icons/irrigation_gate_control.png",
-    "sha256": "2199775dc2788cf2015672d4650cbbdb7eb224283638018ee81d2638b2a26884",
-    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
-    "concept": "Option 2: irrigation gate with simple raise arrow. Generated using the Doover icon factory references."
-  },
-  "json_report": {
-    "file": "icons/json_report.png",
-    "sha256": "1c9fc5c7cd2ef58fafd2890a04bb5f2e5c4a7ba17c2505c21bb7c9e278099d3b",
-    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
-    "concept": "Option 4: file silhouette with simple brace cutout. Generated using the Doover icon factory references."
-  },
-  "jts_renderer": {
-    "file": "icons/jts_renderer.png",
-    "sha256": "4ecdfc7154cb369c4da9fbc71a724d18e0d66784327ea8327a28451fbdcff695",
-    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
-    "concept": "Option 2: simple waveform inside two curly braces. Generated using the Doover icon factory references."
+  "gps_tracker": {
+    "file": "icons/gps_tracker.png",
+    "sha256": "9a95f29e7232608375ef953cb1197d4d95dd4c2550eeb359d672484a6c6a9f5c",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved doover_location_manager artwork (icons/doover_location_manager.png) for the new gps_tracker app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
   },
   "hmi_engine": {
     "file": "icons/hmi_engine.png",
     "sha256": "71802a3439198ec418b79c995a265d87607f93aef1ed5a4278e09b6518e1864b",
     "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
     "concept": "User explicitly requested the existing coloured Local HMI app badge for HMI Display Engine."
-  },
-  "connectivity_monitor": {
-    "file": "icons/connectivity_monitor.png",
-    "sha256": "63f8b8637a16367ba3e717c86414c78b0adf64400112409f7011f7568cdbfbb8",
-    "provenance": "Doover artwork explicitly selected by user",
-    "concept": "Option 5: three broad status bars beside an antenna. Generated using the Doover icon factory references."
   },
   "host_configurator": {
     "file": "icons/host_configurator.png",
@@ -209,17 +203,47 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 2: horizontal hydraulic ram with two mounting eyes. Generated using the Doover icon factory references."
   },
+  "image_uploader": {
+    "file": "icons/image_uploader.png",
+    "sha256": "af4ade95775ab9b46f69e97f720f61dd2d9f419adaed685a223f791ebaf2c777",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 1: photo silhouette with upward arrow. Generated using the Doover icon factory references."
+  },
+  "irrigation_gate_control": {
+    "file": "icons/irrigation_gate_control.png",
+    "sha256": "2199775dc2788cf2015672d4650cbbdb7eb224283638018ee81d2638b2a26884",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 2: irrigation gate with simple raise arrow. Generated using the Doover icon factory references."
+  },
+  "irritek_warning_manager": {
+    "file": "icons/irritek_warning_manager.png",
+    "sha256": "d9ab6470225a3d2250b7c2cbac0531574b6a0e182e30359ecb9e073b1a6dcf5e",
+    "provenance": "User-approved revised Doover icon",
+    "concept": "Revision of option 1: five blue rays above beacon, including three new rays between the original diagonal pair. Generated edit for user review."
+  },
+  "json_report": {
+    "file": "icons/json_report.png",
+    "sha256": "1c9fc5c7cd2ef58fafd2890a04bb5f2e5c4a7ba17c2505c21bb7c9e278099d3b",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 4: file silhouette with simple brace cutout. Generated using the Doover icon factory references."
+  },
+  "jts_renderer": {
+    "file": "icons/jts_renderer.png",
+    "sha256": "4ecdfc7154cb369c4da9fbc71a724d18e0d66784327ea8327a28451fbdcff695",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 2: simple waveform inside two curly braces. Generated using the Doover icon factory references."
+  },
   "lateral_water_map": {
     "file": "icons/lateral_water_map.png",
     "sha256": "137ce701ba7fd5584e019da0e3db19b38621c1a9e5631b204eab8c9891c4631e",
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 4: parallel water bands beneath a location pin. Generated using the Doover icon factory references."
   },
-  "doover_location_manager": {
-    "file": "icons/doover_location_manager.png",
-    "sha256": "9a95f29e7232608375ef953cb1197d4d95dd4c2550eeb359d672484a6c6a9f5c",
-    "provenance": "Doover artwork explicitly selected by user",
-    "concept": "Option 1: location pin with green centre. Generated using the Doover icon factory references."
+  "link_health": {
+    "file": "icons/link_health.png",
+    "sha256": "63f8b8637a16367ba3e717c86414c78b0adf64400112409f7011f7568cdbfbb8",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved connectivity_monitor artwork (icons/connectivity_monitor.png) for the new link_health app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
   },
   "logo_displayer": {
     "file": "icons/logo_displayer.png",
@@ -233,11 +257,11 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 5: wrench and one scheduled-time arc. Generated using the Doover icon factory references."
   },
-  "doover_modbus_slave": {
-    "file": "icons/doover_modbus_slave.png",
-    "sha256": "ec4e989ea6108be5f88169060418eff61df1b6e30b158067ec67fbf9843ea722",
+  "modbus_channel_relay": {
+    "file": "icons/modbus_channel_relay.png",
+    "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
     "provenance": "Doover artwork explicitly selected by user",
-    "concept": "Option 4: single industrial socket with two-way arrow. Generated using the Doover icon factory references."
+    "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
   },
   "mqtt_poller": {
     "file": "icons/mqtt_poller.png",
@@ -269,11 +293,23 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 1: linked industrial nodes with one two-way arrow. Generated using the Doover icon factory references."
   },
+  "pivot_control": {
+    "file": "icons/pivot_control.png",
+    "sha256": "723365bf96bdb1c25d7f68cfb68f08a71be5247963f57dc6da811d723f79c1dc",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved pivot_water_map artwork (icons/pivot_water_map.png) for the new pivot_control app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
+  },
   "pivot_water_map": {
     "file": "icons/pivot_water_map.png",
     "sha256": "723365bf96bdb1c25d7f68cfb68f08a71be5247963f57dc6da811d723f79c1dc",
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 1: circular irrigated field with one coloured sector. Generated using the Doover icon factory references."
+  },
+  "platform_modbus_bridge": {
+    "file": "icons/platform_modbus_bridge.png",
+    "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
+    "provenance": "Doover artwork explicitly selected by user",
+    "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
   },
   "pump_analysis": {
     "file": "icons/pump_analysis.png",
@@ -287,17 +323,23 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 3: pump silhouette and analysis spark. Generated using the Doover icon factory references."
   },
-  "analog_rain_gauge_dashboard": {
-    "file": "icons/analog_rain_gauge_dashboard.png",
-    "sha256": "ea3741ed7863602fcfc703c394c20c5520ccb5bc3b60a683906a204daff0a6af",
-    "provenance": "Doover artwork explicitly selected by user",
-    "concept": "Option 5: rainfall bars beneath one cloud. Generated using the Doover icon factory references."
+  "pump_control": {
+    "file": "icons/pump_control.png",
+    "sha256": "67928601a01751082f0c474b149d527a95606e04788c8b0c6020884bcc0c9a75",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved pump_analysis artwork (icons/pump_analysis.png) for the new pump_control app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
   },
   "rtsp_to_web_app": {
     "file": "icons/rtsp_to_web_app.png",
     "sha256": "7ea13ac1bb768beb1a5b9dbd1988acb832aba6ada6a628c403a0ca5ea33ee07c",
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 2: camera stream entering simple browser tab. Generated using the Doover icon factory references."
+  },
+  "sim_dashboard": {
+    "file": "icons/sim_dashboard.png",
+    "sha256": "da09b132b849b252c0cb60b46e816bd8d62bdd114ae7588e447cf2a5d589f489",
+    "provenance": "Doover icon artwork, explicitly user-selected candidate or existing badge",
+    "concept": "Option 5: SIM chip above a simple usage arc. Generated using the Doover icon factory references."
   },
   "site_parameter_explorer": {
     "file": "icons/site_parameter_explorer.png",
@@ -335,6 +377,12 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 3: conveyor lifting one leaf from water. Generated using the Doover icon factory references."
   },
+  "valve_control": {
+    "file": "icons/valve_control.png",
+    "sha256": "ed878b39b29539edf97a0e10d95b007b7078795b7dce00e6410404fc365a1e14",
+    "provenance": "Reuse of an approved generated Doover icon",
+    "concept": "Interim reuse of the approved channel_gate_control artwork (icons/channel_gate_control.png) for the new valve_control app, 19 Nov 2026. Replace if a dedicated candidate set is generated and approved."
+  },
   "vehicle_tracker": {
     "file": "icons/vehicle_tracker.png",
     "sha256": "0f5dbfe1e72a18b10cf56d0c61282f5b8f0cc6a2444b03fb59a0fdc2f4cc12e9",
@@ -353,22 +401,10 @@
     "provenance": "Doover artwork explicitly selected by user",
     "concept": "Option 2: two Wi-Fi signals joined by switch arrow. Generated using the Doover icon factory references."
   },
-  "modbus_channel_relay": {
-    "file": "icons/modbus_channel_relay.png",
-    "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
-    "provenance": "Doover artwork explicitly selected by user",
-    "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
-  },
-  "platform_modbus_bridge": {
-    "file": "icons/platform_modbus_bridge.png",
-    "sha256": "51f5417a65a6d241715d7c21dcc245270ff7b443e9491856c731bb554a5ff2d5",
-    "provenance": "Doover artwork explicitly selected by user",
-    "concept": "User explicitly requested reuse of the existing coloured Modbus badge."
-  },
-  "irritek_warning_manager": {
-    "file": "icons/irritek_warning_manager.png",
-    "sha256": "d9ab6470225a3d2250b7c2cbac0531574b6a0e182e30359ecb9e073b1a6dcf5e",
-    "provenance": "User-approved revised Doover icon",
-    "concept": "Revision of option 1: five blue rays above beacon, including three new rays between the original diagonal pair. Generated edit for user review."
+  "xlsx_report": {
+    "file": "icons/xlsx_report.png",
+    "sha256": "7179c212a55e2d90e0e8e44c585aa956ea2079a1c8e54fe594d75493f973c91d",
+    "provenance": "Generated Doover icon, user-selected candidate",
+    "concept": "User selected option 5 with cropped top repaired. Re-exported original sheet at unchanged scale with 20px downward offset to recover full top border; no generative change."
   }
 }
